@@ -56,7 +56,7 @@ node server.js
 
 5. Open the application in your browser:
 
-[http://localhost:3000](http://localhost:3000)
+[http://localhost:8000](http://localhost:8000)
 
 
 Key Learning Outcomes
